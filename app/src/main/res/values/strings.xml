@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyNotePad</string>
+    <string name="live_folder_name">Notes</string>
+
+    <string name="title_edit_title">Note title:</string>
+    <string name="title_create">New note</string>
+    <string name="title_edit">Title: %1$s</string>
+    <string name="title_notes_list">Notes</string>
+
+    <string name="menu_add">添加 Note</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_open">打开</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_copy">复制</string>
+    <string name="menu_paste">粘贴</string>
+
+    <string name="button_ok">OK</string>
+    <string name="text_title">Title:</string>
+
+    <string name="resolve_edit">编辑 note</string>
+    <string name="resolve_title">编辑 title</string>
+
+    <string name="Travel">旅行</string>
+    <string name="Work">工作</string>
+    <string name="Study">学习</string>
+    <string name="Life">生活</string>
+    <string name="Default">默认</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_message">Error loading note</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#6200EE</color>
+    <color name="colorAccent">#8B008B</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#00FF7F</color>
+    <color name="orange">#FF8C00</color>
+    <color name="gray">#696969</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="aqua">#00FFFF</color>
+
+
+    <color name="colorPrimary">#FF00FF</color>
+    <!--    深洋红-->
+    <color name="DarkMagenta">#8B008B</color>
+    <!--    薰衣草淡紫-->
+    <color name="Lavender">#E6E6FA</color>
+    <!--    灯笼海棠-->
+    <color name="Fuchsia">#FF00FF</color>
+    <!--    蓝紫罗兰-->
+    <color name="BlueViolet">#8A2BE2</color>
+    <!--    紫罗兰-->
+    <color name="Violet">#EE82EE</color>
+</resources>
